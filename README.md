@@ -7,3 +7,5 @@
 4. BC_{message}
 5. ONLINE
 6. QUIT
+7. ENCRYP_CHAT_{username}_{message}
+8. ENCRYP_BC_{message}
